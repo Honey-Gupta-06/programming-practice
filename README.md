@@ -19,4 +19,4 @@ This repository contains my programming practice and learning journey.
 
 ## Goal
 
-To improve my programming skills and build practical projects for internships and placements.
+To improve my programming skills and build practical projects for internships and placements.First I will start with python projects
